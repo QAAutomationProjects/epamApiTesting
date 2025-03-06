@@ -1,0 +1,7 @@
+# Ignore build files
+target/
+*.class
+
+# Ignore local configurations
+.idea/
+.vscode/
