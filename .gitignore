@@ -5,3 +5,6 @@ target/
 # Ignore local configurations
 .idea/
 .vscode/
+
+# .DS_Store 
+.DS_Store
